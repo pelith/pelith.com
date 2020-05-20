@@ -625,8 +625,8 @@
   grid-row-gap: 70px;
   -ms-grid-columns: 1.5fr 1fr 1.5fr;
   grid-template-columns: 1.5fr 1fr 1.5fr;
-  -ms-grid-rows: minmax(auto, 600px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px);
-  grid-template-rows: minmax(auto, 600px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px);
+  -ms-grid-rows: minmax(auto, 600px) minmax(auto, 600px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px);
+  grid-template-rows: minmax(auto, 600px) minmax(auto, 600px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px);
 }
 
 .product-item {
