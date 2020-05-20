@@ -629,6 +629,25 @@
   grid-template-rows: minmax(auto, 600px) minmax(auto, 600px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px) minmax(auto, 260px);
 }
 
+.product-item-easydai {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border-radius: 4px;
+  background-image: url('../images/Easydai-bg.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 40px -8px #000;
+}
+
 .product-item {
   position: relative;
   display: -webkit-box;
